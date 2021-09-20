@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0hnr1ch&label=Profile%20views&color=0e75b6&style=flat" alt="j0hnr1ch" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j0hnr1ch" alt="j0hnr1ch" /></a> </p>
-
 - 🔭 I’m currently working on [Aximo](https://aximo.ml)
 
 - 🌱 I’m currently relearning **python.**
