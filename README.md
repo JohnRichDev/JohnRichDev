@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Aximo](https://aximo.ml)
 
-- 🌱 I’m currently relearning **python.**
+- 🌱 I’m currently relearning **python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/J0hnR1ch](https://github.com/J0hnR1ch)
 
-- 💬 Ask me about **nodejs, html and php.**
+- 💬 Ask me about **nodejs, html and php**
 
 - 📫 How to reach me **johnrich@aximo.ml**
 
