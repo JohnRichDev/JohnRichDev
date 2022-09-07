@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Rich</h1>
-<h3 align="center">A self-taught full stack developer from Southeast Asia</h3>
+<h3 align="center">A self-taught backend developer from Southeast Asia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0hnr1ch&label=Profile%20views&color=b6240e&style=flat-square" alt="j0hnr1ch" /> </p>
 
