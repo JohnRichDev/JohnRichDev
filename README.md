@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0hnr1ch&label=Profile%20views&color=b6240e&style=flat-square" alt="j0hnr1ch" /> </p>
 
-- 🔭 I’m currently working on [Aximo](https://aximo.ml)
+- 🔭 I’m currently working on [John Rich](https://johnrich.ml)
 
 - 🌱 I’m currently relearning **python**
 
