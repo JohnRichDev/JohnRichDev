@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently relearning **python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/J0hnR1ch](https://github.com/JohnRichDev)
+- 👨‍💻 All of my projects are available at [https://github.com/JohnRichDev](https://github.com/JohnRichDev)
 
 - 💬 Ask me about **nodejs, html and php**
 
