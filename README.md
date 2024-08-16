@@ -11,9 +11,7 @@
 
 - 💬 Ask me about **nodejs, html and php**
 
-- 📫 How to reach me **johnrich@aximo.ml**
-
-- ⚡ Fun fact **I am Asian**
+- 📫 Contact me at **me@johnrich.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
