@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on one of my projects: [johnrich.dev](https://johnrich.dev)
 
-- 🌱 I’m currently relearning **python**
+- 🌱 I’m currently relearning **C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JohnRichDev](https://github.com/JohnRichDev)
 
